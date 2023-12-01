@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "612291664345",
+    "project_id": "mue-chat",
+    "storage_bucket": "mue-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612291664345:android:30239d9c0e9e5396c461c8",
+        "android_client_info": {
+          "package_name": "com.csjmdevelopers.muechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612291664345-ric6k72kd9549m1j4aop2qvfmj1j4636.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sy8jDvc3pCQGII3apHOMD17LuV4c2lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612291664345-ric6k72kd9549m1j4aop2qvfmj1j4636.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

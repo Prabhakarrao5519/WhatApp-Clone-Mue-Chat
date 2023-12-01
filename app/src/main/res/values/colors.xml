@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    
+    <color name="light_grey">#ededed</color>
+    <color name="color_primary">#0b6156</color>
+    <color name="primary_dark">#095049</color>
+    <color name="red">#9F0b0b</color>
+    <color name="fb">#3c5793</color>
+    <color name="recieved_background">#081531</color>
+    <color name="light_green">#e5ffcc</color>
+
+    <color name="profile_background">#9E234D</color>
+
+
+
+    <color name="input_background">#ECECEC</color>
+    <color name="icon_background">#20FFFFFF</color>
+    <color name="error">#B00020</color>
+    <color name="recieved_message_background">#090D16</color>
+    <color name="green">#008000</color>
+</resources>

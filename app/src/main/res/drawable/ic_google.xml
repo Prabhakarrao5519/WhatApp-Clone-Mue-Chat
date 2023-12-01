@@ -1,0 +1,22 @@
+<vector android:height="24dp" android:viewportHeight="375"
+    android:viewportWidth="375" android:width="24dp" xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ffffff" android:pathData="M-37.5,-37.5h450v450h-450z"/>
+    <path android:fillColor="#ffffff" android:pathData="M-37.5,-37.5h450v450h-450z"/>
+    <path android:fillColor="#ffffff" android:pathData="M-37.5,-37.5h450v450h-450z"/>
+    <group>
+        <clip-path android:pathData="M193,163L265.348,163L265.348,235L193,235ZM193,163"/>
+        <path android:fillColor="#4285f4" android:fillType="nonZero" android:pathData="M265.211,179.098C265.211,172.934 264.711,168.43 263.629,163.766L193.34,163.766L193.34,191.598L234.602,191.598C233.77,198.516 229.273,208.93 219.293,215.93L219.152,216.863L241.379,234.109L242.914,234.266C257.055,221.18 265.211,201.934 265.211,179.098"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M126,192L243,192L243,252.43L126,252.43ZM126,192"/>
+        <path android:fillColor="#34a853" android:fillType="nonZero" android:pathData="M193.34,252.43C213.555,252.43 230.523,245.766 242.914,234.266L219.293,215.93C212.969,220.348 204.488,223.43 193.34,223.43C173.543,223.43 156.742,210.352 150.75,192.266L149.875,192.34L126.766,210.258L126.465,211.098C138.773,235.598 164.063,252.43 193.336,252.43"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M118.348,143L151,143L151,212L118.348,212ZM118.348,143"/>
+        <path android:fillColor="#fbbc05" android:fillType="nonZero" android:pathData="M150.75,192.266C149.172,187.602 148.258,182.598 148.258,177.43C148.258,172.266 149.172,167.262 150.668,162.598L150.625,161.605L127.23,143.398L126.465,143.766C121.391,153.93 118.477,165.352 118.477,177.43C118.477,189.512 121.391,200.934 126.465,211.098L150.75,192.266"/>
+    </group>
+    <group>
+        <clip-path android:pathData="M126,102.43L244,102.43L244,163L126,163ZM126,102.43"/>
+        <path android:fillColor="#eb4335" android:fillType="nonZero" android:pathData="M193.34,131.43C207.395,131.43 216.879,137.516 222.289,142.598L243.414,121.93C230.438,109.848 213.555,102.43 193.34,102.43C164.063,102.43 138.773,119.266 126.465,143.766L150.668,162.598C156.742,144.516 173.543,131.43 193.34,131.43"/>
+    </group>
+</vector>
